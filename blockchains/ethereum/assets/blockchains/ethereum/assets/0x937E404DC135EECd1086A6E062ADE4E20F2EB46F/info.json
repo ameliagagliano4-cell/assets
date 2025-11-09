@@ -1,0 +1,11 @@
+{
+    "name": "TailCodaCoin",
+    "symbol": "TCC",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "TailCodaCoin è un token ERC20 con supply iniziale fissa e possibilità di mint da parte dell'owner.",
+    "website": "https://tuosito.com",
+    "explorer": "https://etherscan.io/token/0x937e404Dc135EECd1086A6e062ADe4e20f2eB46F",
+    "status": "active",
+    "id": "0x937E404DC135EECd1086A6E062ADE4E20F2EB46F"
+}
