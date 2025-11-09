@@ -1,0 +1,21 @@
+{
+    "name": "TailCodaCoin",
+    "symbol": "TAIL",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "TailCodaCoin (TAIL) is a community-driven ERC20 token.",
+    "website": "https://tuosito.com",
+    "explorer": "https://etherscan.io/token/0x937e404dc135eecd1086a6e062ade4e20f2eb46f",
+    "status": "active",
+    "id": "0x937e404dc135eecd1086a6e062ade4e20f2eb46f",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/tuoprofilo"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/tuogruppo"
+        }
+    ]
+}
